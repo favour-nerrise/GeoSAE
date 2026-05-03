@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+title: "GeoSAE: Geometric Prior-Guided Layer-Wise Sparse Autoencoder Annotation of Brain MRI Foundation Models"
+message: "If you use this software, please cite the associated paper and this repository."
+type: software
+authors:
+  - family-names: Nerrise
+    given-names: Favour
+    affiliation: "Stanford University"
+    email: fnerrise@stanford.edu
+  - family-names: Yin
+    given-names: Lucy
+    affiliation: "Stanford University"
+  - family-names: Abbasi
+    given-names: Mohammad H.
+    affiliation: "Stanford University"
+  - family-names: Pohl
+    given-names: Kilian M.
+    affiliation: "Stanford University"
+  - family-names: Adeli
+    given-names: Ehsan
+    affiliation: "Stanford University"
+    email: eadeli@stanford.edu
+repository-code: https://github.com/favour-nerrise/GeoSAE
+license: MIT
+version: 0.1.0
+date-released: 2026-04-01
+preferred-citation:
+  type: conference-paper
+  title: "GeoSAE: Geometric Prior-Guided Layer-Wise Sparse Autoencoder Annotation of Brain MRI Foundation Models"
+  authors:
+    - family-names: Nerrise
+      given-names: Favour
+    - family-names: Yin
+      given-names: Lucy
+    - family-names: Abbasi
+      given-names: Mohammad H.
+    - family-names: Pohl
+      given-names: Kilian M.
+    - family-names: Adeli
+      given-names: Ehsan
+  collection-title: "Proceedings of the CVPR Workshop on Computer Vision for Real-world Clinical Translation (CV4Clinic)"
+  year: 2026
+  url: "https://github.com/favour-nerrise/GeoSAE"

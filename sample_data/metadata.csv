@@ -1,0 +1,7 @@
+RID,MNI_Z_Cropped,scan_date,diagnosis,age,sex,apoe4_count,hypertension,hyperlipidemia,depression,diabetes_type2,cardiovascular_disease
+1,/demo/001_S_0001_T1_demo.nii.gz,2021-01-01,MCI,72,1,0,0,1,0,0,0
+1,/demo/001_S_0002_T1_demo.nii.gz,2022-06-01,MCI,73,1,0,0,1,0,0,0
+2,/demo/001_S_0003_T1_demo.nii.gz,2021-02-15,MCI,76,2,1,1,1,0,0,1
+2,/demo/001_S_0004_T1_demo.nii.gz,2022-08-20,MCI,77,2,1,1,1,0,0,1
+3,/demo/001_S_0005_T1_demo.nii.gz,2021-03-10,CN,69,2,0,0,0,0,0,0
+4,/demo/001_S_0006_T1_demo.nii.gz,2021-04-05,AD,80,1,2,1,0,1,1,1
